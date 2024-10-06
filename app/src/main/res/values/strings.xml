@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carpooling</string>
+    <string name="title_activity_offer_ride">OfferRide</string>
+    <string name="title_activity_request_ride">RequestRide</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="title_activity_chatting">ChattingActivity</string>
+</resources>
